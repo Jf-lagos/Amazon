@@ -31,11 +31,11 @@ npm install
 ```
 
 ## Getting Started 
-1. Inside the "amazon-clone" repository:
+Inside the "amazon-clone" repository:
 ```
 npm start
 ```
-2.Inside the "function" repository
+Inside the "function" repository
 ```
 npm start
 ```
